@@ -52,5 +52,3 @@ We may update this policy as the research evolves. Changes will be reflected in 
 Contact
 For questions about this privacy policy or our data practices:
 Email: duboishdesigns@gmail.com
-
-THANKSMOM is developed by Impious LLC for behavioral research purposes.
