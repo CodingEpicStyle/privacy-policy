@@ -1,0 +1,151 @@
+# Privacy Policy for Last Time I Did X
+
+**Last Updated:** January 5, 2025
+
+## Overview
+
+Last Time I Did X ("the App") is a universal interval tracker developed by an independent developer. This privacy policy explains how we handle your information.
+
+**The short version:** Your data stays on your device. We don't have accounts, servers, or access to your personal information.
+
+---
+
+## Information We Collect
+
+### Information Stored Locally (On Your Device Only)
+
+The App stores the following data locally on your device:
+
+- **Task data:** Names, intervals, due dates, completion history, notes, and preferences you create
+- **App settings:** Your preferences for notifications, colors, and display options
+- **Purchase status:** A record of whether you've purchased the Pro version
+
+This data is stored in a local database on your device. **We cannot access, view, or retrieve this data.** If you uninstall the App, this data is permanently deleted unless you've created a backup.
+
+### Information Collected Automatically
+
+**Crash Reports (via Sentry)**
+
+If the App crashes, we collect anonymous diagnostic information to help fix bugs:
+
+- Device type and operating system version
+- App version
+- Error stack traces
+- General usage patterns leading to the crash
+
+Crash reports are processed by [Sentry](https://sentry.io), a third-party error tracking service. These reports do **not** include your task names, personal notes, or any content you've entered into the App.
+
+**Google Play Services**
+
+If you purchase the Pro version, Google Play processes the transaction. We receive only:
+
+- Confirmation that a purchase was made
+- A purchase token to verify your purchase
+
+We do not receive your name, email, payment method, or billing address. See [Google's Privacy Policy](https://policies.google.com/privacy) for how Google handles purchase data.
+
+---
+
+## Optional Features
+
+### Google Drive Backup (Pro Feature)
+
+If you enable Google Drive backup:
+
+- You sign in with your Google account directly through Google's secure sign-in
+- Backup files are stored in your personal Google Drive in a private app folder
+- Backups contain your task data in an unencrypted format
+- **We never see or have access to your Google account, credentials, or backup files**
+
+You can delete backups at any time through the App or directly in Google Drive. See [Google's Privacy Policy](https://policies.google.com/privacy) for how Google handles your Drive data.
+
+### Notifications
+
+If you enable notifications:
+
+- Notification scheduling is handled entirely on your device
+- Notification content (task names and due dates) is processed locally
+- We do not receive or store notification data
+
+---
+
+## Information We Do NOT Collect
+
+- ❌ Personal identification (name, email, address, phone)
+- ❌ Location data
+- ❌ Contacts or calendar data
+- ❌ Photos or media
+- ❌ Browsing history
+- ❌ Advertising identifiers
+- ❌ Analytics or usage tracking beyond crash reports
+
+---
+
+## Data Sharing
+
+We do not sell, trade, or transfer your personal information to third parties.
+
+Data is shared only with:
+
+| Service | Purpose | Data Shared |
+|---------|---------|-------------|
+| Sentry | Crash reporting | Anonymous diagnostics only |
+| Google Play | In-app purchases | Purchase verification tokens |
+| Google Drive | Optional backup | Your backup files (stored in YOUR Drive) |
+
+---
+
+## Data Security
+
+- All data is stored locally on your device using SQLite encryption
+- Network communications use HTTPS encryption
+- Google sign-in uses OAuth 2.0 secure authentication
+- We do not operate servers that store your data
+
+---
+
+## Children's Privacy
+
+The App does not knowingly collect information from children under 13. The App contains no advertising, social features, or content inappropriate for children.
+
+---
+
+## Your Rights
+
+You have complete control over your data:
+
+- **Access:** All your data is visible within the App
+- **Export:** Use Google Drive backup to export your data
+- **Delete:** Uninstall the App to delete all local data, or delete individual items within the App
+- **Opt-out of crash reporting:** Crash reports can be disabled by denying network permissions to the App
+
+---
+
+## Changes to This Policy
+
+We may update this Privacy Policy occasionally. Changes will be posted on this page with an updated "Last Updated" date. Continued use of the App after changes constitutes acceptance of the updated policy.
+
+---
+
+## Contact
+
+For questions about this Privacy Policy or the App:
+
+**Email:** [YOUR_EMAIL_HERE]
+
+---
+
+## Summary
+
+| Question | Answer |
+|----------|--------|
+| Do you have my personal info? | No |
+| Do you track me? | No |
+| Do you sell data? | No |
+| Where is my data? | On your device only |
+| Can you see my tasks? | No |
+| What if I uninstall? | All data is deleted |
+
+---
+
+*This privacy policy is effective as of January 5, 2025.*
